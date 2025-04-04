@@ -81,10 +81,6 @@ npm install react-confetti
 - Modern browser (Chrome, Firefox, Edge, Safari)
 - Internet connection (for first-time dependency installation)
 
-## 📸 Demo
-
-![Tenzies Screenshot](./public/screenshot.png)  
-> *(Add your actual screenshot in the `public/` folder and name it `screenshot.png`)*
 
 ## 🚀 Deployment
 
